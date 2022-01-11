@@ -1,0 +1,21 @@
+{
+    "name": "vebs",
+    "displayName": "VeBs",
+    "description": "Tema que você provavelmente irá mudar em 1 semana",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VeBs",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VeBs-color-theme.json"
+            }
+        ]
+    }
+}
